@@ -119,7 +119,7 @@ button {
 .aside-nav__item-icon {
   position: absolute;
   display: none;
-  background-image: url("/img/side-stripe.svg");
+  background-image: url("../img/side-stripe.svg");
   width: 4px;
   height: 32px;
   left: -24px;
