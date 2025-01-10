@@ -70,6 +70,7 @@ button {
   display: flex;
   padding: 19px 24px;
   align-items: center;
+  position: relative;
 }
 
 .aside-header__icon {
@@ -97,7 +98,8 @@ button {
 }
 
 .aside-nav {
-  margin-top: 46px;
+  margin-top: 22px;
+  position: relative;
 }
 
 .aside-nav__list {
@@ -110,7 +112,7 @@ button {
   font-size: 16px;
   line-height: 24px;
   margin-left: 24px;
-  margin-bottom: 32px;
+  margin-bottom: 25px;
   position: relative;
 }
 
@@ -133,8 +135,9 @@ button {
 }
 
 .aside-footer {
-  margin-top: 236px;
   margin-left: 24px;
+  position: relative;
+  bottom: 10px;
 }
 
 .aside-footer__socials {
@@ -159,7 +162,7 @@ button {
 
 .aside-footer__lang {
   margin-top: 40px;
-  padding-bottom: 32px;
+  /*padding-bottom: 32px;*/
 }
 
 .aside-footer__lang {
